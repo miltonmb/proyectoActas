@@ -78,7 +78,7 @@ public class principal extends javax.swing.JFrame {
         jButton1.setEnabled(false);
         String ceros = "0000";
         System.out.println(ceros);
-        for (int i = 17000; i <= 18028; i++) {
+        for (int i = 1; i <= 18028; i++) {
             final int percent = i;
             if (i < 9) {
                 try {
